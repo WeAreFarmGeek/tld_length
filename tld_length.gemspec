@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["John Hamelink"]
   spec.email         = ["hello@farmer.io"]
   spec.summary       = %q{Handle subdomains on xip.io / nip.io domains using a rack middleware}
-  spec.homepage      = "https://github.com/johnhamelink/tld_length"
+  spec.homepage      = "https://github.com/WeAreFarmGeek/tld_length"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
